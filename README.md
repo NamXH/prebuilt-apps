@@ -1,3 +1,5 @@
+Employee Directory is a good example of Xamarin Shared project with MVC pattern!!!
+
 # Xamarin Prebuilt Apps
 
 Visit the [pre-built apps page](http://xamarin.com/prebuilt/) on xamarin.com.
