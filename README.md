@@ -1,4 +1,4 @@
-**_Employee Directory is a good example of Xamarin Shared project with MVC pattern!!!_**
+**_Employee Directory is a good example of Xamarin Shared project with MVVM pattern (NOT MVC)!!!_**
 
 
 
